@@ -9,10 +9,6 @@
 pip install -r requirements.txt
 ```
 
-2. Получите API ключ на сайте [NewsAPI](https://newsapi.org/)
-
-3. Замените 'ВАШ_API_КЛЮЧ' в файле `news_viewer.py` на ваш API ключ
-
 ## Использование
 
 Запустите приложение командой:
